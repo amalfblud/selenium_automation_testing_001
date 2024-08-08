@@ -1,5 +1,8 @@
 # My First Selenium IDE Automation Project
 
+## Website
+* https://www.saucedemo.com/
+
 ## Tools Used
 * Selenium IDE
 * Python (for script export)
