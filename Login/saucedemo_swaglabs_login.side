@@ -1,7 +1,7 @@
 {
   "id": "9b658c8c-e51e-41c9-a667-dd30847ec4d2",
   "version": "2.0",
-  "name": "saucedemo_swaglabs",
+  "name": "saucedemo_swaglabs_login",
   "url": "https://www.saucedemo.com",
   "tests": [{
     "id": "eae1ed31-aa46-4c50-ac7f-4747be56effd",
