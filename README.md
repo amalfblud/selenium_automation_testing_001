@@ -10,7 +10,7 @@
 
 ## Project Structure
 * **scripts:** Contains Selenium IDE .side files.
-* **python_scripts:** Contains exported Python scripts for test execution.
+* **python_scripts & java :** Contains exported Python scripts for test execution.
 
 ## Test Cases Covered
 * User login
