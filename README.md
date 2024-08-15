@@ -5,17 +5,16 @@
 
 ## Tools Used
 * Selenium IDE
-* Python (for script export)
+* Python
+* Java
 
 ## Project Structure
 * **scripts:** Contains Selenium IDE .side files.
-* **python_scripts:** Contains exported Python scripts for test execution.
-
+* **python_scripts & java :** Contains exported Python scripts for test execution.
 
 ## Test Cases Covered
 * User login
+* Add to cart
 
 ## Future Improvements
-* Product search
-* Add to cart
 * Checkout process
