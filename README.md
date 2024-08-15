@@ -7,14 +7,13 @@
 * Selenium IDE
 * Python
 * Java
+* JavaScript
 
 ## Project Structure
 * **scripts:** Contains Selenium IDE .side files.
-* **python_scripts & java :** Contains exported Python scripts for test execution.
+* **python, java & javascript :** Contains exported Python scripts for test execution.
 
 ## Test Cases Covered
 * User login
 * Add to cart
-
-## Future Improvements
 * Checkout process
